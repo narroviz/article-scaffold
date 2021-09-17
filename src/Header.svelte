@@ -66,8 +66,8 @@
   }
 
   .logo {
-    max-width: 50px;
-    max-height: 50px;
+    max-width: 48px;
+    max-height: 48px;
     display: block;
     position: relative;
     color: inherit;
