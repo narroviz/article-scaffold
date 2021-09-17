@@ -121,10 +121,9 @@ main {
 	padding-right: 5vw;
 }
 
-/*
-main {
-	height: 100%;
-	text-align: center;
-	margin: 0 auto;
+@media (max-width: 1000px) {
+  main {
+    padding: 0vw;
+    padding-top: 4rem;
+  }
 }
-*/
