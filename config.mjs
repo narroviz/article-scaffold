@@ -1,0 +1,6 @@
+export const ARTICLE_NAME = "article-name"
+export const ARTICLE_NAME_UNDERSCORE = "article_name"
+export const ARTICLE_TITLE = "Article Title"
+export const ARTICLE_DESCRIPTION = "Article Description"
+export const ARTICLE_PUBLISH_TIME = "YYYY/MM/DD"
+export const ARTICLE_TITLE_DATE = "Month YYYY"
