@@ -25,7 +25,7 @@ const reformatHtmlFile = (htmlFile) => {
 		<meta property='og:type' content='article' />
 		<meta property='og:locale' content='en_US' />
 		
-		<meta property='og:image' content='https://narro.design/assets/images/${ARTICLE_NAME_UNDERSCORE}.png' />
+		<meta property='og:image' content='https://narro.design/assets/images/${ARTICLE_NAME_UNDERSCORE}_social.png' />
 		<meta property='og:image:type' content='image/png' />
 		<meta property="article:published_time" content="${ARTICLE_PUBLISH_TIME}">
 		
@@ -34,7 +34,7 @@ const reformatHtmlFile = (htmlFile) => {
 		<meta name='twitter:creator' content='narroviz' />
 		<meta name='twitter:title' content='${ARTICLE_TITLE}' />
 		<meta name='twitter:description' content='${ARTICLE_DESCRIPTION}' />
-		<meta name='twitter:image:src' content='https://narro.design/assets/images/${ARTICLE_NAME_UNDERSCORE}.png' />
+		<meta name='twitter:image:src' content='https://narro.design/assets/images/${ARTICLE_NAME_UNDERSCORE}_social.png' />
 		
 		<link rel='canonical' href='https://narro.design/html/${ARTICLE_NAME}.html' />
 		
